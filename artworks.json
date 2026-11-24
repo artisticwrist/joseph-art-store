@@ -1,0 +1,79 @@
+[
+    {
+        "id":1,
+        "title":"Whispers of the Aurora",
+        "category":"Painting",
+        "medium":"Acrylic on canvas",
+        "dimensions":"12 × 16 inch",
+        "year":2026,
+        "price":80000,
+        "status":"available",
+        "description":"A monochrome streetscape featuring palm trees, passing figures and a central monument. Detailed surroundings and deep shadows capture the atmosphere of an everyday town scene."
+    },
+    {
+        "id":2,
+        "title":"The Town Between Moments",
+        "category":"Digital",
+        "medium":"Digital Drawing",
+        "dimensions":"12 × 16 inch",
+        "year":2025,
+        "price":15000,
+        "status":"available",
+        "description":"Palm trees, overhead wires and a roadside monument frame a familiar street scene. Deep shadows and softly blurred figures give this monochrome drawing the feeling of a place recalled from memory—recognisable, quiet and slightly out of reach."
+    },
+    {
+        "id":3,
+        "title":"Born Into the Unknown",
+        "category":"Digital",
+        "medium":"Digital Illustration",
+        "dimensions":"12 × 16 inch",
+        "year":2024,
+        "price":25000,
+        "status":"available",
+        "description":"Born Into the Unknown explores the mystery of existence and the uncertainty of beginnings. Three shadowy figures emerge from fractured eggshells, suspended in an eerie green landscape beneath a pale, distant light. Each figure appears isolated, yet all seem bound to the same unfamiliar world. The cracked shells suggest the end of one existence and the beginning of another, raising questions about identity, freedom, and the circumstances into which we are born. Wrapped in fog and silence, the scene captures the unsettling beauty of entering a world without understanding its rules."
+    },
+    {
+        "id":4,
+        "title":"Another way of seeing",
+        "category":"Digital",
+        "medium":"Digital composition",
+        "dimensions":"12 × 16 inch",
+        "year":2024,
+        "price":25000,
+        "status":"available",
+        "description":"A solitary figure sits between opposing worlds of black and white, surrounded by restless, fragmented strokes. The contrast captures the tension between inner turmoil and outward stillness, expressing the weight of unspoken emotions and the struggle to find peace within oneself."
+    },
+    {
+        "id":5,
+        "title":"Chasing the horizon",
+        "category":"Painting",
+        "medium":"Acrylic on canvas",
+        "dimensions":"11 × 11 inch",
+        "year":2026,
+        "price":70000,
+        "status":"available",
+        "description":"A lone sailboat drifts across glowing waters as the sun sinks into a fiery horizon. Against a sky of amber, crimson, and gold, birds soar freely into the distance. The painting captures the beauty of fleeting moments, the freedom of the open sea, and the quiet promise of new beginnings."
+    },
+    {
+        "id":6,
+        "title":"Balance",
+        "category":"Digital",
+        "medium":"Digital Illustration",
+        "dimensions":"12 × 16 inch",
+        "year":2026,
+        "price":15000,
+        "status":"available",
+        "description":"A minimalist abstract drawing featuring overlapping circles in grey, black, white and gold. Soft lighting and subtle shadows add depth to its simple geometric composition."
+    },
+    {
+    "id": 7,
+    "title": "Silent Night",
+    "category": "Charcoal",
+    "medium": "Charcoal on paper",
+    "dimensions": "12 × 16 inch",
+    "year": 2026,
+    "price": 25000,
+    "status": "available",
+    "description":"A nighttime road scene featuring moving cars beneath a line of glowing streetlights. Expressive charcoal shading captures the contrast between the dark surroundings and light reflected on the road."
+    }
+]
